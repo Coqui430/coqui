@@ -1,0 +1,71 @@
+article, aside, details, dl, figcaption, figure, footer, header, main, nav, section{
+    display: block;
+}
+
+html {
+	font-size: 100%;
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+}
+
+html, button, input, select, textarea {
+	font-family: serif;
+	color: #222;
+}
+
+body {
+	margin: 0 auto;
+	font-size: 1em;
+    line-height: 1.4;
+    max-width: 960px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    color: #EED4FF;
+}
+
+a {
+    font-size: x-large;
+    color: #4BCC83;
+}
+a:visited {
+	color: #CC554B;
+}
+a:hover {
+	color: #78FFB2;
+}
+a:focus {
+	outline: thin dotted;
+}
+a:hover, a:active {
+	outline: 0;
+}
+
+html{
+    background-color: rgb(98, 54, 128);
+}
+
+img{
+    height: 250px;
+}
+
+table {
+    padding: 8px;
+}
+
+button {
+    background-color: #4BCC83;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #1D5C5C;
+    border-radius: 8px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border: none;
+    margin: 8px;
+}
+
+button a:visited {
+    color: #1D5C5C;
+}
