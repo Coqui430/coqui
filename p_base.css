@@ -66,6 +66,10 @@ button {
     margin: 8px;
 }
 
+button a {
+    color: #1D5C5C;
+}
+
 button a:hover {
     color: #1D5C5C;
 }
