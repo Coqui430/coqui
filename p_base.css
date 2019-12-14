@@ -26,13 +26,13 @@ body {
 
 a {
     font-size: x-large;
-    color: #1D5C5C;
+    color: #4BCC83;
 }
 a:visited {
 	color: #CC554B;
 }
 a:hover {
-	color: #1D5C5C;
+	color: #4BCC83;
 }
 a:focus {
 	outline: thin dotted;
@@ -64,6 +64,10 @@ button {
     padding-right: 16px;
     border: none;
     margin: 8px;
+}
+
+button a {
+    color: #1D5C5C;
 }
 
 button a:visited {
