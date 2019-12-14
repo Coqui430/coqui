@@ -26,13 +26,13 @@ body {
 
 a {
     font-size: x-large;
-    color: #4BCC83;
+    color: #1D5C5C;
 }
 a:visited {
 	color: #CC554B;
 }
 a:hover {
-	color: #78FFB2;
+	color: #1D5C5C;
 }
 a:focus {
 	outline: thin dotted;
